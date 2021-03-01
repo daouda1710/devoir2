@@ -1,0 +1,235 @@
+*{
+
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: cursive;
+}
+.navigat{
+	width: 100%;
+	background-color:green;
+	position:sticky;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 15px;
+	border-radius: 20px;
+	position: sticky;
+}
+.navigat .col{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+
+}
+.bor a {
+  	color: #fff;
+  	font-size: 40px;
+  	font-weight: 500;
+}
+.bor a span{
+	color:black;
+}
+.m{
+	padding-top: 10px;
+}
+.m li{
+	display: inline-block;
+}
+.m li a{
+
+	color: black;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+
+}
+.m li a:hover{
+	color: black;
+}
+/**********************************************************/
+.kr{
+	height: 800px;
+	background:url('rd.jpg');
+	display: flex;
+}
+.kr .col{
+	color: black;
+	margin: auto 120px;
+}
+
+.kr .col .text-1{
+	font-size: 40px;
+	font-weight: 600;
+}
+
+.kr .col .text-2{
+	font-size: 60px;
+	font-weight: 500;
+	color: green;
+	}
+.kr .col .text-3{
+	font-size: 50px;
+	font-weight: 500;
+
+}
+.kr .col .text-3 span{
+	color: green;
+}
+.kr .col .button-one{
+	display:inline-flex;
+	color:black;
+	font-size: 40px;
+	font-weight: 400;
+	background-color: green;
+	border:2px solid green;
+	border-radius: 20px;
+	padding: 10px 40px;
+	margin-top: 20px;
+	margin-right: 20px 40px;
+
+}
+.kr .col .button-one:hover{
+	background:none;
+}
+/********************************************************/
+.gt .kar{
+	margin-top: 50px;
+	font-size: 40px;
+	font-weight: 500;
+	text-align: center;
+	text-decoration: underline green; 
+	margin-bottom: 100px;
+}
+.gt .kol{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding: 0px 100px ;
+}
+.gt .div-left{
+	width: 45%;
+}
+.gt .div-right{
+	width: 55%;
+}
+.gt .div-left img{
+
+	height: 400px;
+	width: 400px;
+	border-radius: 20px;
+
+}
+.gt .div-right .text{
+	font-size: 35px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.gt .div-right .text span{
+	color: green;
+}
+.gt .div-right  p{
+	text-align: justify;
+	font-size: 20px;
+
+}
+.gt .div-right a{
+	display:inline-grid;
+	color: black;
+	font-size: 40px;
+	font-weight: 400;
+	background-color: green;
+	border:2px solid green;
+	border-radius: 20px;
+
+}
+.gt .div-right a:hover{
+	background:none;
+	color: green;
+}
+
+
+*{text-decoration: none;}
+
+.nav{width: 	99%;
+
+	background-color:green;
+	border-radius: 20px;
+	
+}
+
+.nav .dif{
+width: 1200px;
+	display: flex;	
+	justify-content:space-between;	
+	align-content: 	center;	
+	margin: 20px auto;
+}
+
+.daf a{
+	color: white;
+	font-size:40px;
+	font-weight:500;}
+
+.daf a span{ color:blue; }
+.def{padding-top: 10px;}
+.def li{
+	display:inline-block;	
+}
+.def li a{
+	color: white;
+	font-size: 30px;
+	font-weight: 100;
+	margin-left: 20px;
+	transition: color 2s;
+}
+
+.td1{background-color: green;
+width: 250px;
+border-radius: 10px;
+
+}
+.ks{
+	border-radius: 100% ;
+	width: 60%;
+	color: red;
+	border: 3px solid blue;}
+
+.na{width: 99%;
+	position: fixed;
+	background-color:blue;
+	border-radius: 10px;}
+
+
+		.div1{
+			width: 100%;
+			background-color: green;
+		}
+
+		.id{
+			color: green;
+			border-radius: 5px;
+			background-color: green;
+		}
+	.dok{
+		top: 50%;
+		left: 50%;
+		position: absolute;
+		transform: translate(-50% ,-50%);	
+
+	}
+	.dok .menu{
+		width: 40px;
+		height: 6px;
+		margin: 6px 0px;
+		background:black;
+	
+		color: grey;
+	}
+	.color{
+		color: white;
+	background-color: pink;
+	}
+	
